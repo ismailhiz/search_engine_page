@@ -1,0 +1,105 @@
+*{
+    overflow: hidden;
+}
+.big{
+    background-color: aliceblue;
+    padding: 230px 50px;
+    margin: 120px 380px 120px 380px;
+    /* -webkit-box-shadow: 71px 75px 5px 0px rgba(214,236,255,1);
+-moz-box-shadow: 71px 75px 5px 0px rgba(214,236,255,1);
+box-shadow: 71px 75px 5px 0px rgba(214,236,255,1); */
+-webkit-box-shadow: 51px 55px 3px 0px rgba(214,236,255,1);
+-moz-box-shadow: 41px 45px 3px 0px rgba(214,236,255,1);
+box-shadow: 21px 25px 3px 0px rgba(214,236,255,1);
+}
+
+
+.login h2{
+position: absolute;
+top: 20%;
+right: 46.4%;
+font-size: 2em;
+font-family: Arial, Helvetica, sans-serif;
+letter-spacing: 2px;
+}
+
+
+.icon{
+    position: absolute;
+    top: 35%;
+    left: 39%;
+    list-style-type: none;
+   
+}
+
+#face{
+    padding-left: 60px;
+    color:  #3b5998;
+
+}
+
+#face:hover{
+    padding-left: 60px;
+    color:  #1a4ec1;
+
+}
+#insta{
+    padding-left: 60px;
+    color:  #515BD4;
+}
+#insta:hover{
+    padding-left: 60px;
+    color:  #3d4be5;
+}
+#tg{
+    padding-left: 60px;
+    color:#0088cc;
+
+}
+#tg:hover{
+    padding-left: 60px;
+    color:#0273ac;
+
+}
+
+#mail{
+    padding: 10px 85px;
+    position: absolute;
+    top: 50vb;
+    right: 39%;
+    
+
+}
+
+#sifre{
+    padding: 10px 85px;
+    position: absolute;
+    top: 60vb;
+    right: 39%;
+}
+
+#buton{
+    padding: 10px 85px;
+    position: absolute;
+    top: 74vb;
+    right: 43%;
+    border-radius: 25px;
+    background-color: #34b6f8;
+}
+#buton:hover{
+    background-color: #19a7ee;
+}
+
+#password_forget{
+    position: absolute;
+    top:66vb; 
+    right: 44.5%;
+
+}
+
+#giris{
+    position: absolute;
+    top: 44vb;
+    right: 45.5%;
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+}

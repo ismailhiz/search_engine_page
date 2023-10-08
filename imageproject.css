@@ -1,0 +1,94 @@
+*{
+    
+    margin: 0%;
+ }
+
+ .container{
+   margin: 0px;
+   padding: 20px;
+
+   background-color: whitesmoke;
+ }
+.sol_kisim p{
+   font-size: 19px;
+   color: black;
+   display: inline-block;
+   margin: 0px 20px;
+   letter-spacing: 1px;
+}
+
+#sag{
+   margin: 0px -620px 5px 640px;
+   font-size: 15px;
+   /* box-shadow: 2px 0px 4px 2px black; */
+   box-shadow: 1px 1px 2px black;
+   letter-spacing: 1px;
+   border-radius: 20px;
+   padding: 10px 50px;
+   font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+}
+#sag:hover{
+   margin: 0px -620px 5px 640px; 
+   font-size: 15px;
+   /* box-shadow: 1px 1px 2px black; */
+   box-shadow: 0px 0px 1px 1px gray;
+   font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+
+}
+#login {
+   color: black;
+   background-color: white;
+   box-shadow: 2px 4px 6px;
+}
+/* simdi üst kısım navbar bitti alt kısım txt kısmına gectik */
+#bas_bir{
+   font-size: 35px;
+   font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+   position: relative;
+top: 180px;
+left: 313.5px;
+
+   display: inline-block;
+   text-shadow: 1px 1px 1px silver;
+   letter-spacing: 2px;
+}
+
+#bas_iki{
+   font-size: 25px;
+   letter-spacing: 2px;
+   font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+   color: rgb(0, 0, 0);
+   text-shadow: 1px 1px 1px  rgb(142, 179, 19);
+   position: relative;
+   top: 245px;
+   right: 20%;
+   display: inline-block;
+}
+
+#buton{
+   padding: 10px 200px;
+   color: rgb(27, 12, 12);
+   border-radius: 25px;
+   box-shadow: 0px 1px 0px 1px black;
+   position: relative;
+   left: 465px;
+   top: 320px;
+
+}
+
+#search{
+   color: black;
+   font-size: 32px;
+   border-radius: 30px;
+   position: relative;
+   top: 328px;
+   left: 475px;
+   padding: 0px 25px;
+   background-color: rgb(240, 122, 122);
+}
+
+#cizgi{
+   position: relative;
+   top: 457px;
+   
+}
